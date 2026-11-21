@@ -62,4 +62,9 @@ FarmTrack is a Farming System Database developed using Oracle Database and PL/SQ
   * **`DBMS_SCHEDULER`:** Schedule automatic checks for harvested crops approaching expiry.
 
 ## References (APA)
-* Add your APA-formatted references from `docs/research/research_log.md` (at least 6 verified sources you have read, including research papers, a report/statistic, an existing system, a dataset, and a technical source).
+* Basir, M. S., Buckmaster, D., Raturi, A., & Zhang, Y. (2024). From pen and paper to digital precision: A comprehensive review of on-farm recordkeeping. *Precision Agriculture*, *25*, 2643–2682. https://doi.org/10.1007/s11119-024-10172-7
+* Farmbrite. (n.d.). *Farm management software for your whole farm*. https://www.farmbrite.com/
+* Food and Agriculture Organization of the United Nations. (2025, September 29). *On the International Day of Awareness of Food Loss and Waste, learn how FAO is leveraging data to save food and advance the 2030 Agenda*. https://www.fao.org/statistics/highlights-archive/highlights-detail/on-the-international-day-of-awareness-of-food-loss-and-waste--learn-how-fao-is-leveraging-data-to-save-food-and-advance-the-2030-agenda
+* National Institute of Statistics of Rwanda. (2025). *Agriculture Household Survey 2024* [Data set]. NISR Microdata Catalog. https://microdatabk.statistics.gov.rw/catalog/123
+* Oracle. (2026). *Oracle Database PL/SQL language reference (19c)*. https://docs.oracle.com/en/database/oracle/oracle-database/19/lnpls/
+* Tummers, J., Kassahun, A., & Tekinerdogan, B. (2019). Obstacles and features of Farm Management Information Systems: A systematic literature review. *Computers and Electronics in Agriculture*, *157*, 189–204. https://doi.org/10.1016/j.compag.2018.12.044
